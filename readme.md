@@ -1,5 +1,9 @@
 # Description
 
+**WARNING**
+
+Months are written in french.
+
 Sort files in folders based on year and month of the mtime (modification time) of the file.
 
 All the files should be in the very same folder.
