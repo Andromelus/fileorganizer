@@ -13,9 +13,9 @@ All the files should be in the very same folder.
 
 # How to use
 
-## Sort by mtime
+## Sort by mtype
 ```shell
-node index.js mtime <pathofmyfiles>
+node index.js mtype <pathofmyfiles>
 ```
 ## Sort by name date
 ```shell
